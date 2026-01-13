@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/alex-hagenmayer-lopez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ahl96&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
 
