@@ -6,14 +6,28 @@
   <a href="https://www.linkedin.com/in/alex-hagenmayer-lopez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/ahl96">
-    <img src="https://komarev.com/ghpvc/?username=ahl96&style=flat-square&color=blue" alt=""/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ahl96&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
 
+## 📊 GitHub Stats
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahl96&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahl96&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahl96&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahl96&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 What I’m Interested In
+- Senior / Lead software engineering roles
+- High-ownership, remote-first teams
+- Products operating at meaningful scale
+- Clean architecture, good observability, and pragmatic engineering
+
+---
+
+📫 **Let’s connect:**  
+- LinkedIn: [alex-hagenmayer-lopez](https://www.linkedin.com/in/alex-hagenmayer-lopez)
