@@ -8,15 +8,11 @@
   </a>
 </div>
 
+---
 
-## 📊 GitHub Stats
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahl96&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahl96&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+## 📊 GitHub
+Most of my professional work lives in private repositories.  
+This profile highlights side projects, experiments, and technical interests.
 
 ---
 
